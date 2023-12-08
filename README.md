@@ -1,3 +1,7 @@
+---
+license: mit
+---
+
 # AI Wave Riders
 
 ## Introduction
